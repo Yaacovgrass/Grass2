@@ -84,8 +84,8 @@ height: 400px;
   justify-content: center;
   flex-direction: column;
   margin:5px;
-
 }
+
 
 .price{
   background-color:#ffa500 ;
@@ -95,6 +95,14 @@ height: 400px;
   font-family:poppins;
   font-size:15px;
 }
+
+.price:hover{
+  opacity:0.6;
+  cursor:pointer;
+}
+
+
+
 
 .additional{
   font-size: 13px;
